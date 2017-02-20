@@ -25,3 +25,4 @@
     "dependencies": {
         "leaflet": ">= 1.0.3"
     }
+}
