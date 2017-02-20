@@ -1,0 +1,27 @@
+{
+    "name": "Leaflet.markercluster",
+    "version": "1.0.3",
+    "homepage": "https://github.com/fncmedia/Leaflet.fullscreen",
+    "authors": [
+        "Carsten Eilers <carsten.eilers@fncmedia.de>"
+    ],
+    "description": "Marker Clustering plugin for Leaflet.",
+    "main": [
+        "dist/Leaflet.fullscreen.js",
+        "dist/fullscreen.png",
+        "dist/fullscreen@2x.png",
+        "leaflet.fullscreen.css"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "example",
+        "spec",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "leaflet": ">= 1.0.3"
+    }
