@@ -10,7 +10,7 @@
         "dist/Leaflet.fullscreen.js",
         "dist/fullscreen.png",
         "dist/fullscreen@2x.png",
-        "leaflet.fullscreen.css"
+        "dist/leaflet.fullscreen.css"
     ],
     "license": "MIT",
     "ignore": [
